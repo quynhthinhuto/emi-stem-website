@@ -1,0 +1,22 @@
+[data-lesson-plan] .book-actions {
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+[data-lesson-plan] + .section-heading {
+  margin-top: 2rem;
+}
+
+[data-lesson-plan] .resource-copy {
+  min-width: 0;
+}
+
+[data-lesson-plan] .resource-copy p {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 760px) {
+  [data-lesson-plan] .book-actions {
+    justify-content: flex-start;
+  }
+}

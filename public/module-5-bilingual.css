@@ -1,0 +1,117 @@
+.page-module-5 .bilingual-label {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: inherit;
+  gap: 0.15rem;
+  white-space: normal;
+  line-height: 1.4;
+}
+
+.page-module-5 .bilingual-secondary {
+  display: block;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+.page-module-5 .bilingual-title > span {
+  display: block;
+}
+
+.page-module-5 .bilingual-title > [lang="vi"] {
+  margin-top: 0.4rem;
+  font-size: 0.55em;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.page-module-5 .bilingual-heading > span {
+  display: block;
+}
+
+.page-module-5 .bilingual-heading > [lang="vi"] {
+  margin-top: 0.3rem;
+  color: var(--muted);
+  font-size: 0.75em;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.page-module-5 .module-page-button > .bilingual-label,
+.page-module-5 .module-control-label > .bilingual-label {
+  align-items: flex-start;
+}
+
+.page-module-5 .local-nav-links a {
+  min-width: 0;
+  flex: 0 0 auto;
+  max-width: 240px;
+}
+
+.page-module-5 .local-nav-links .bilingual-label {
+  align-items: flex-start;
+}
+
+.page-module-5 .module-menu-copy b .bilingual-label,
+.page-module-5 .module-menu-copy b .bilingual-label > [lang="en"] {
+  margin: 0;
+  color: #fff;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.page-module-5 .module-menu-copy b .bilingual-secondary {
+  margin: 0;
+  color: #e0e5ed;
+  font-size: 0.82em;
+}
+
+.page-module-5 .book-actions .button {
+  min-width: 0;
+  max-width: 100%;
+  text-align: left;
+}
+
+.page-module-5 .page-copy > span,
+.page-module-5 .policy-subtitle > span,
+.page-module-5 .policy-status > span,
+.page-module-5 .bilingual-text > span {
+  display: block;
+}
+
+.page-module-5 .policy-subtitle > span + span,
+.page-module-5 .bilingual-text > span + span {
+  margin-top: 0.25rem;
+}
+
+.page-module-5 .policy-status {
+  white-space: normal;
+}
+
+.page-module-5 .translation-note {
+  margin-top: 1.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.page-module-5 .translation-note p {
+  margin: 0.3rem 0;
+}
+
+.page-module-5 :is(h1, h2, h3, .page-copy, .resource-description, .policy-subtitle, .policy-status, .teaching-video-caption, footer) {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 700px) {
+  .page-module-5 .local-nav-links a {
+    max-width: 205px;
+  }
+
+  .page-module-5 .nav-links {
+    gap: 0.7rem;
+  }
+
+  .page-module-5 .nav-links .bilingual-label {
+    font-size: 0.85rem;
+  }
+}

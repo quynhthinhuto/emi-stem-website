@@ -1,0 +1,1097 @@
+{
+  "revision": 2,
+  "lessonMinutes": 45,
+  "pages": [
+    {
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Use this guide beside the Shared Lesson Plan Format and the Module 2 video. Work through seven planning steps, complete the matching fields, and prepare one 45-minute lesson. English and Vietnamese appear together throughout.",
+            "Dùng tài liệu này cùng Mẫu kế hoạch bài dạy dùng chung và video Module 2. Thực hiện bảy bước, điền đúng mục trong mẫu và chuẩn bị một tiết 45 phút. Mỗi nội dung đều có tiếng Anh và tiếng Việt."
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Open the shared Word format. Prepare the book, curriculum and class information. Pause the video at each step and complete the matching fields.",
+            "Mở mẫu Word chung. Chuẩn bị sách, chương trình và thông tin lớp. Dừng video ở mỗi bước và điền mục tương ứng."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            0.6,
+            3.8,
+            2.8
+          ],
+          "headers": [
+            "Step\nBước",
+            "Planning task\nViệc cần làm",
+            "Guide page and format section\nTrang hướng dẫn và mục trong mẫu"
+          ],
+          "rows": [
+            [
+              "1",
+              "Identify the lesson context\nXác định bối cảnh bài học",
+              "Page 2 · Section 1\nTrang 2 · Mục 1"
+            ],
+            [
+              "2",
+              "Set content and language objectives\nViết mục tiêu nội dung và ngôn ngữ",
+              "Page 3 · Section 2\nTrang 3 · Mục 2"
+            ],
+            [
+              "3",
+              "Check prior knowledge and difficulties\nKiểm tra kiến thức nền và khó khăn",
+              "Page 4 · Sections 3 and 5\nTrang 4 · Mục 3 và 5"
+            ],
+            [
+              "4",
+              "Prepare vocabulary and outline the sequence\nChuẩn bị từ vựng và phác tiến trình",
+              "Page 5 · Sections 3 and 4\nTrang 5 · Mục 3 và 4"
+            ],
+            [
+              "5",
+              "Model then guide then release\nLàm mẫu rồi hướng dẫn rồi tự thực hiện",
+              "Pages 6 and 7 · Section 4\nTrang 6 và 7 · Mục 4"
+            ],
+            [
+              "6",
+              "Check understanding throughout\nKiểm tra mức độ hiểu trong giờ",
+              "Page 8 · Sections 4 and 5\nTrang 8 · Mục 4 và 5"
+            ],
+            [
+              "7",
+              "Assess conclude and reflect\nĐánh giá tổng kết và phản tư",
+              "Page 9 · Sections 5 and 6\nTrang 9 · Mục 5 và 6"
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Subject examples follow on pages 10-12. Use the worksheet on page 13, the checklist on page 14 and the source notes on page 15.",
+            "Ví dụ môn học ở trang 10-12, phiếu soạn ở trang 13, rà soát ở trang 14 và nguồn ở trang 15."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 1 Identify the lesson context",
+      "vi": "Bước 1 Xác định bối cảnh bài học",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 3. Complete Section 1 of the shared format and the class profile in Section 3. Your output is a verified book reference and a focus that fits this class in one period.",
+            "Slide 3 trong video. Điền Mục 1 của mẫu và đặc điểm lớp ở Mục 3. Sản phẩm là nguồn sách đã kiểm tra và một trọng tâm phù hợp với lớp trong một tiết."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Read the book's learning focus, example and relevant teacher guidance. Check where this lesson sits in the school's unit plan.",
+              "Đọc trọng tâm, ví dụ trong sách và hướng dẫn giáo viên liên quan. Xác định vị trí tiết này trong kế hoạch chủ đề của trường."
+            ],
+            [
+              "Choose one concept or skill. Decide what can wait until another lesson; do not compress a whole chapter into 45 minutes.",
+              "Chọn một khái niệm hoặc kĩ năng. Xác định nội dung để tiết sau; không dồn cả chương vào 45 phút."
+            ],
+            [
+              "Record the actual class, English access needs and resources. Use the table below, then transfer the information into the shared format.",
+              "Ghi lớp thực tế, nhu cầu hỗ trợ tiếng Anh và học liệu. Dùng bảng dưới rồi chuyển thông tin vào mẫu chung."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            2.25,
+            4.95
+          ],
+          "headers": [
+            "Field\nThông tin",
+            "What to enter\nNội dung cần điền"
+          ],
+          "rows": [
+            [
+              "School teacher date class\nTrường giáo viên ngày lớp",
+              "Actual details; present and absent learners when known.\nThông tin thực tế; số học sinh có mặt và vắng khi xác định được."
+            ],
+            [
+              "Book and curriculum\nSách và chương trình",
+              "Title, author, edition, chapter, pages and the school's learning requirement. Verify any objective code.\nTên sách, tác giả, phiên bản, chương, trang và yêu cầu học tập của trường. Kiểm tra mã mục tiêu nếu dùng."
+            ],
+            [
+              "Lesson focus and duration\nTrọng tâm và thời lượng",
+              "One-step equations with addition or subtraction; 45 minutes.\nPhương trình một bước có cộng hoặc trừ; 45 phút."
+            ],
+            [
+              "Class profile\nĐặc điểm lớp",
+              "Lower-secondary example; learners can add and subtract but may need help explaining in English. Replace with actual information.\nVí dụ THCS; học sinh cộng trừ được nhưng có thể cần hỗ trợ giải thích bằng tiếng Anh. Thay bằng thông tin thực tế."
+            ],
+            [
+              "Resources and limits\nHọc liệu và điều kiện",
+              "Board or paper balance diagram, task sheets and individual exit slips; paper backup.\nBảng hoặc hình cân bằng trên giấy, phiếu bài tập và phiếu cuối giờ cá nhân; dự phòng bản giấy."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Check: verify the book section and prerequisites. Replace the illustrative class details with your own.",
+            "Kiểm tra: xác minh phần sách và kiến thức tiền đề. Thay thông tin lớp minh họa bằng thông tin thực tế."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 2 Set objectives and success criteria",
+      "vi": "Bước 2 Viết mục tiêu và tiêu chí thành công",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 4. Fill all three columns in Section 2. An objective states the learning; a success criterion describes its quality; evidence is the response or work you will inspect.",
+            "Slide 4 trong video. Điền cả ba cột ở Mục 2. Mục tiêu nêu điều học được; tiêu chí thành công mô tả chất lượng; bằng chứng là câu trả lời hoặc bài làm sẽ kiểm tra."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Draft one or two content objectives and one language objective for this lesson. Use an observable verb and a clear task condition.",
+              "Soạn một hoặc hai mục tiêu nội dung và một mục tiêu ngôn ngữ cho tiết này. Dùng động từ quan sát được và nêu điều kiện nhiệm vụ."
+            ],
+            [
+              "For each objective, decide what a successful response must contain. Write a short task and its expected answer before choosing activities.",
+              "Với mỗi mục tiêu, xác định câu trả lời đạt cần có gì. Soạn nhiệm vụ ngắn và đáp án dự kiến trước khi chọn hoạt động."
+            ],
+            [
+              "Share learner-friendly criteria at the start, use them during practice and revisit them at the end. 'Finish the worksheet' is an activity, not a learning objective.",
+              "Chia sẻ tiêu chí dễ hiểu đầu giờ, dùng khi luyện tập và rà lại cuối giờ. 'Làm xong phiếu' là hoạt động, không phải mục tiêu học tập."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            2.4,
+            2.4,
+            2.4
+          ],
+          "headers": [
+            "Objective\nMục tiêu",
+            "Success criterion\nTiêu chí thành công",
+            "Evidence\nBằng chứng"
+          ],
+          "rows": [
+            [
+              "Content: solve a one-step equation and verify the solution independently.\nNội dung: tự giải phương trình một bước và kiểm tra nghiệm.",
+              "Apply the same inverse operation to both sides; give a correct value and substitution check.\nDùng cùng phép toán ngược ở hai vế; nghiệm đúng và có thay số kiểm tra.",
+              "Individual work on x + 6 = 14 and x - 4 = 9, then an exit task.\nBài cá nhân x + 6 = 14 và x - 4 = 9, rồi nhiệm vụ cuối giờ."
+            ],
+            [
+              "Language: explain one solving step using a sentence frame if needed.\nNgôn ngữ: giải thích một bước giải bằng khung câu nếu cần.",
+              "Name the operation and say why it is done on both sides.\nNêu phép toán và lí do thực hiện ở cả hai vế.",
+              "A spoken or written explanation using 'both sides' and 'because'.\nGiải thích nói hoặc viết với 'both sides' và 'because'."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Check: every objective has evidence, including individual evidence for content. Judge subject reasoning separately from English accuracy when that distinction matters.",
+            "Kiểm tra: mọi mục tiêu đều có bằng chứng, kể cả bằng chứng nội dung của từng em. Khi cần, nhận xét lập luận môn học tách biệt với độ chính xác tiếng Anh."
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Draft your own objective, criterion and task in Section 2. The worksheet on page 13 provides space for notes.",
+            "Tự viết mục tiêu, tiêu chí và nhiệm vụ ở Mục 2. Phiếu trang 13 có chỗ ghi ý."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 3 Anticipate prior knowledge and difficulties",
+      "vi": "Bước 3 Xác định kiến thức nền và khó khăn",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 5. Fill prior knowledge and difficulties in Section 3; support and extension in Section 5. Prepare a question, answer and response to error.",
+            "Slide 5. Điền kiến thức nền và khó khăn ở Mục 3; hỗ trợ và mở rộng ở Mục 5. Soạn câu hỏi, đáp án và cách xử lí lỗi."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "List prerequisites and set a short opening task for everyone.",
+              "Liệt kê kiến thức tiền đề và giao nhiệm vụ đầu giờ ngắn cho mọi em."
+            ],
+            [
+              "Use a diagram or Vietnamese clarification to distinguish a conceptual error from an English access problem.",
+              "Dùng hình hoặc giải thích tiếng Việt để phân biệt lỗi khái niệm với khó tiếp cận tiếng Anh."
+            ],
+            [
+              "Prepare targeted support and an extension that deepens reasoning.",
+              "Chuẩn bị hỗ trợ đúng khó khăn và mở rộng để đào sâu lập luận."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            1.8,
+            2.7,
+            2.7
+          ],
+          "headers": [
+            "Possible difficulty\nKhó khăn có thể gặp",
+            "Prompt and expected response\nCâu hỏi và trả lời dự kiến",
+            "Teacher response\nCách xử lí"
+          ],
+          "rows": [
+            [
+              "Arithmetic prerequisite\nTiền đề tính toán",
+              "6 + 2 = ___; 8 = 6 + ___. Answers: 8 and 2.\nĐáp án hai chỗ trống: 8 và 2.",
+              "If arithmetic is insecure, revisit with counters before equations.\nNếu chưa vững tính toán, ôn bằng vật đếm trước khi giải phương trình."
+            ],
+            [
+              "Meaning of equality\nÝ nghĩa dấu bằng",
+              "Is 8 = 6 + 2 true? Why? Both expressions have the same value.\n8 = 6 + 2 đúng không? Vì sao? Hai biểu thức có cùng giá trị.",
+              "Use a balance drawing and reverse a true equality.\nDùng hình cân và đảo hai vế của một đẳng thức đúng."
+            ],
+            [
+              "Changing one side only\nChỉ thay đổi một vế",
+              "For x + 4 = 11, subtract 4 where? Both sides.\nVới x + 4 = 11, trừ 4 ở đâu? Cả hai vế.",
+              "Ask learners to mark both sides and redo the step.\nYêu cầu đánh dấu hai vế và làm lại bước đó."
+            ],
+            [
+              "English access\nTiếp cận tiếng Anh",
+              "Point to both sides, then explain with a frame.\nChỉ hai vế rồi giải thích bằng khung câu.",
+              "Allow a brief Vietnamese explanation, then an English return sentence.\nCho giải thích ngắn bằng tiếng Việt rồi nói lại một câu tiếng Anh."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Support example: a partly completed balance diagram. Extension example: create an equation with solution 10 and justify it. These choices can change when the opening evidence is different.",
+            "Ví dụ hỗ trợ: hình cân bằng điền một phần. Ví dụ mở rộng: lập phương trình có nghiệm 10 và giải thích. Điều chỉnh các lựa chọn nếu bằng chứng đầu giờ khác dự kiến."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 4 Prepare vocabulary and outline the sequence",
+      "vi": "Bước 4 Chuẩn bị từ vựng và phác tiến trình",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slides 2 and 5. Complete language support in Section 3 and sketch the stages in Section 4. Select words learners need for the task, not every unfamiliar word in the book.",
+            "Slide 2 và 5 trong video. Điền hỗ trợ ngôn ngữ ở Mục 3 và phác các giai đoạn ở Mục 4. Chọn từ học sinh cần để làm bài, không chọn mọi từ mới trong sách."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Start with about four to six essential terms. Verify Vietnamese subject meanings and prepare a visual, example and pronunciation model.",
+              "Có thể bắt đầu với khoảng bốn đến sáu từ cốt lõi. Kiểm tra nghĩa chuyên môn tiếng Việt; chuẩn bị hình, ví dụ và cách phát âm mẫu."
+            ],
+            [
+              "Write one or two frames for the actual communication task, such as explaining a method. Model a meaningful answer before asking learners to repeat.",
+              "Viết một hoặc hai khung câu cho nhiệm vụ giao tiếp thực tế, như giải thích cách làm. Làm mẫu câu có ý nghĩa trước khi yêu cầu học sinh nhắc lại."
+            ],
+            [
+              "Outline warm-up, language, model, guided practice, independent work and conclusion. Add checkpoints and timings at Step 5.",
+              "Phác khởi động, ngôn ngữ, làm mẫu, luyện có hướng dẫn, làm độc lập và tổng kết. Thêm điểm kiểm tra và thời gian ở Bước 5."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            1.5,
+            1.6,
+            4.1
+          ],
+          "headers": [
+            "English\nTiếng Anh",
+            "Vietnamese\nTiếng Việt",
+            "Meaning in the task\nNghĩa trong nhiệm vụ"
+          ],
+          "rows": [
+            [
+              "equation",
+              "phương trình",
+              "An equality with an unknown, for example x + 4 = 11.\nĐẳng thức có ẩn, ví dụ x + 4 = 11."
+            ],
+            [
+              "solution",
+              "nghiệm",
+              "A value that makes the equation true; here x = 7.\nGiá trị làm phương trình đúng; ở đây x = 7."
+            ],
+            [
+              "equal",
+              "bằng nhau",
+              "Both sides have the same value.\nHai vế có cùng giá trị."
+            ],
+            [
+              "subtract",
+              "trừ",
+              "Subtract 4 from both sides in the model.\nTrừ 4 ở cả hai vế trong ví dụ mẫu."
+            ],
+            [
+              "substitute",
+              "thay giá trị",
+              "Replace x with 7 to check: 7 + 4 = 11.\nThay x bằng 7 để kiểm tra: 7 + 4 = 11."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Frame 1: 'I subtract ___ from both sides because this keeps them equal.' Frame 2: 'I check by substituting ___ for x.' Add 'add' when modelling a subtraction equation.",
+            "Khung 1: 'Tôi trừ ___ ở cả hai vế vì như vậy giữ hai vế bằng nhau.' Khung 2: 'Tôi kiểm tra bằng cách thay x bằng ___.' Thêm từ 'add' khi làm mẫu phương trình có phép trừ."
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Practise with a partner, then explain individually. After Vietnamese support, return to an English sentence. Reduce frames when ready. Four to six words is a suggestion, not a Cambridge rule.",
+            "Luyện với bạn rồi tự giải thích. Sau hỗ trợ tiếng Việt, trở lại bằng một câu tiếng Anh. Giảm khung khi sẵn sàng. Bốn đến sáu từ là gợi ý, không phải quy định Cambridge."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 5 Build the learning sequence",
+      "vi": "Bước 5 Xây dựng tiến trình học tập",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 6. Fill teacher actions, learner actions, evidence and timings in Section 4. Move from a visible model to supported practice and then an independent task.",
+            "Slide 6 trong video. Điền việc của giáo viên, việc của học sinh, bằng chứng và thời gian ở Mục 4. Chuyển từ làm mẫu rõ ràng sang luyện có hỗ trợ rồi làm độc lập."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Write the model in full, including your explanation and the expected answer. Select a question that reveals why the method works.",
+              "Viết đủ ví dụ mẫu, lời giải thích và đáp án. Chọn câu hỏi làm rõ vì sao cách làm đúng."
+            ],
+            [
+              "Prepare guided tasks and decide when support can be reduced. For pair work, assign solver and checker roles, then switch roles.",
+              "Chuẩn bị bài luyện và xác định lúc giảm hỗ trợ. Khi làm cặp, phân vai người giải và người kiểm tra rồi đổi vai."
+            ],
+            [
+              "Prepare a fresh individual task. Check the total 45 minutes, including instructions, transitions, setup and cleanup. Keep the final individual check.",
+              "Chuẩn bị bài cá nhân mới. Kiểm tra tổng 45 phút, kể cả chỉ dẫn, chuyển hoạt động, chuẩn bị và thu dọn. Giữ kiểm tra cá nhân cuối giờ."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            1.15,
+            3.35,
+            2.7
+          ],
+          "headers": [
+            "Stage\nGiai đoạn",
+            "Teacher and learner action\nViệc của giáo viên và học sinh",
+            "Product to inspect\nSản phẩm kiểm tra"
+          ],
+          "rows": [
+            [
+              "Model\nLàm mẫu",
+              "Write x + 4 - 4 = 11 - 4, so x = 7. Check 7 + 4 = 11. Say why both sides change.\nViết x + 4 - 4 = 11 - 4, suy ra x = 7. Kiểm tra 7 + 4 = 11. Nêu vì sao đổi cả hai vế.",
+              "Learners identify the same operation on both sides.\nHọc sinh chỉ ra cùng phép toán ở hai vế."
+            ],
+            [
+              "Guide\nHướng dẫn",
+              "Pairs solve x + 5 = 12 and x - 3 = 8; switch solver and checker. Answers: 7 and 11.\nCặp giải hai bài; đổi vai giải và kiểm tra. Nghiệm lần lượt: 7 và 11.",
+              "Both learners show steps and check a partner's reasoning.\nCả hai trình bày bước giải và kiểm tra lập luận của bạn."
+            ],
+            [
+              "Release\nTự thực hiện",
+              "Each learner solves x + 6 = 14 and x - 4 = 9 without a partner's answer. Answers: 8 and 13.\nTừng em tự giải hai bài, không dùng đáp án của bạn. Nghiệm: 8 và 13.",
+              "An individual solution and substitution check for each task.\nLời giải và bước thay số cá nhân cho từng bài."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Prepare enough sheets and exit slips for the class, plus a visible balance model and answer key. Test projected materials; have a paper version. For practical lessons, follow the school's risk assessment and allocate cleanup time inside the schedule.",
+            "Chuẩn bị đủ phiếu bài tập và phiếu cuối giờ, hình cân rõ và đáp án. Thử tài liệu trình chiếu; có bản giấy. Với thực hành, theo đánh giá rủi ro của trường và tính thời gian thu dọn trong lịch."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 5 A complete 45 minute example",
+      "vi": "Bước 5 Ví dụ tiến trình đủ 45 phút",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Copy this structure into Section 4 and replace the Maths tasks with your own subject tasks. Beginning 5 minutes, main learning 35 minutes, close 5 minutes. Checks are included within the stages.",
+            "Chuyển cấu trúc vào Mục 4 và thay bài Toán bằng nhiệm vụ môn của mình. Mở đầu 5 phút, học chính 35 phút, kết thúc 5 phút. Kiểm tra được tính trong từng giai đoạn."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            0.7,
+            2.2,
+            2.15,
+            2.15
+          ],
+          "headers": [
+            "Time\nMốc",
+            "Teacher action\nViệc của giáo viên",
+            "Learner action\nViệc của học sinh",
+            "Evidence and response\nBằng chứng và xử lí"
+          ],
+          "rows": [
+            [
+              "0-5\n5 min",
+              "Display 6 + 2 = ___ and 8 = 6 + ___. Share criteria.\nHiện hai câu điền số. Nêu tiêu chí.",
+              "Everyone writes answers and explains equality.\nMọi em ghi đáp án và giải thích dấu bằng.",
+              "8 and 2. Clarify that both sides have the same value.\n8 và 2. Làm rõ hai vế cùng giá trị."
+            ],
+            [
+              "5-10\n5 min",
+              "Model five terms and an explanation frame.\nLàm mẫu năm từ và khung giải thích.",
+              "Match meanings and rehearse in pairs.\nGhép nghĩa và luyện theo cặp.",
+              "Hear 'both sides' in a meaningful sentence.\nKiểm tra dùng 'cả hai vế' trong câu có nghĩa."
+            ],
+            [
+              "10-17\n7 min",
+              "Model x + 4 = 11, then substitution.\nLàm mẫu giải và thay số.",
+              "Predict the operation and explain why.\nDự đoán phép toán và giải thích lí do.",
+              "x = 7; 7 + 4 = 11. Ask why both sides change.\nx = 7; hỏi vì sao đổi cả hai vế."
+            ],
+            [
+              "17-27\n10 min",
+              "Guide x + 5 = 12 and x - 3 = 8.\nHướng dẫn hai bài luyện.",
+              "Pairs solve, check and switch roles.\nCặp giải, kiểm tra và đổi vai.",
+              "x = 7 and 11. Reteach any one-sided operation.\nNghiệm 7 và 11. Dạy lại lỗi chỉ đổi một vế."
+            ],
+            [
+              "27-35\n8 min",
+              "Set x + 6 = 14 and x - 4 = 9.\nGiao hai bài cá nhân.",
+              "Solve independently; substitute to check.\nTự giải; thay số kiểm tra.",
+              "x = 8 and 13. Inspect steps, not only answers.\nNghiệm 8 và 13. Xem bước giải, không chỉ đáp số."
+            ],
+            [
+              "35-40\n5 min",
+              "Show x + 4 = 11 leading incorrectly to x = 11.\nHiện lời giải sai: suy ra x = 11.",
+              "Find the one-sided subtraction and correct it.\nTìm lỗi chỉ trừ một vế và sửa.",
+              "Correct to x = 7; improve explanations.\nSửa thành x = 7; cải thiện giải thích."
+            ],
+            [
+              "40-45\n5 min",
+              "Give x + 7 = 16; collect exit slips and close.\nGiao bài cuối giờ; thu phiếu và tổng kết.",
+              "Solve, check and explain one step individually.\nTự giải, kiểm tra và giải thích một bước.",
+              "x = 9; 9 + 7 = 16. Record each criterion.\nx = 9. Ghi nhận từng tiêu chí."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 6 Check understanding throughout",
+      "vi": "Bước 6 Kiểm tra mức độ hiểu trong giờ",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 7. Add checkpoints to Section 4 and the assessment response in Section 5. Each checkpoint needs a prompt, expected evidence and a decision about what to do next.",
+            "Slide 7 trong video. Thêm điểm kiểm tra vào Mục 4 và cách phản hồi đánh giá ở Mục 5. Mỗi điểm cần câu hỏi, bằng chứng dự kiến và quyết định bước tiếp theo."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Choose a checkpoint before independent work and another during it. Ask everyone to respond on paper or a mini-whiteboard before discussion.",
+              "Chọn một điểm kiểm tra trước làm độc lập và một điểm trong lúc làm. Yêu cầu mọi em trả lời trên giấy hoặc bảng con trước khi thảo luận."
+            ],
+            [
+              "Prepare an answer and a likely wrong answer. Ask a follow-up question that reveals reasoning rather than guessing.",
+              "Chuẩn bị đáp án và một đáp án sai có thể gặp. Hỏi tiếp để làm rõ lập luận thay vì đoán."
+            ],
+            [
+              "Specify a response: re-model a critical step, support a small group or move on. Choose any numerical threshold locally; it is not a Cambridge rule.",
+              "Nêu cách xử lí: làm mẫu lại bước quan trọng, hỗ trợ nhóm nhỏ hoặc tiếp tục. Nếu dùng ngưỡng số lượng, tự chọn theo lớp; không phải quy định Cambridge."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            1.1,
+            3.05,
+            3.05
+          ],
+          "headers": [
+            "When\nKhi nào",
+            "Prompt and expected evidence\nCâu hỏi và bằng chứng dự kiến",
+            "Decision\nQuyết định"
+          ],
+          "rows": [
+            [
+              "After model\nSau làm mẫu",
+              "'Subtract 4 from which sides? Why?' Both sides, to keep equality.\n'Trừ 4 ở vế nào? Vì sao?' Cả hai vế để giữ đẳng thức.",
+              "If many change one side, redraw the balance and repeat with x + 2 = 9.\nNếu nhiều em chỉ đổi một vế, vẽ lại cân và luyện x + 2 = 9."
+            ],
+            [
+              "During pairs\nKhi làm cặp",
+              "For x - 3 = 8, show the operation and check. Add 3 to both sides; x = 11.\nVới x - 3 = 8, nêu phép toán và kiểm tra. Cộng 3 hai vế; x = 11.",
+              "A wrong inverse operation needs a new model. Correct work with hesitant English needs a frame, not a harder calculation.\nSai phép toán ngược cần làm mẫu lại. Bài đúng nhưng khó nói cần khung câu, không cần phép tính khó hơn."
+            ],
+            [
+              "Individual\nCá nhân",
+              "x + 6 = 14 gives x = 8; x - 4 = 9 gives x = 13, with checks.\nHai bài cho nghiệm 8 và 13, có bước kiểm tra.",
+              "Give specific feedback on the missing step. If secure, invite a justified new equation.\nPhản hồi đúng bước còn thiếu. Nếu vững, yêu cầu lập và giải thích phương trình mới."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "For the reteaching task x + 2 = 9, the answer is x = 7; check 7 + 2 = 9. Check again after feedback. A confident volunteer does not show that the whole class is ready.",
+            "Bài dạy lại x + 2 = 9 có nghiệm x = 7; kiểm tra 7 + 2 = 9. Kiểm tra lại sau phản hồi. Một em xung phong tự tin không chứng minh cả lớp đã sẵn sàng."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Step 7 Assess conclude and reflect",
+      "vi": "Bước 7 Đánh giá tổng kết và phản tư",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 8. Plan exit and follow-up in Section 5. Fill Section 6 after teaching with actual evidence.",
+            "Slide 8. Soạn cuối giờ và tiếp nối ở Mục 5. Điền Mục 6 sau dạy bằng bằng chứng thực tế."
+          ]
+        },
+        {
+          "type": "actions",
+          "items": [
+            [
+              "Use a fresh individual exit task with a method, answer and explanation.",
+              "Dùng bài cuối giờ cá nhân mới có cách giải, đáp số và giải thích."
+            ],
+            [
+              "Revisit criteria, collect work and name the next learning step.",
+              "Nhắc lại tiêu chí, thu bài và nêu bước học tiếp theo."
+            ],
+            [
+              "After teaching, record attainment, support needs and one change. Do not pre-fill results.",
+              "Sau dạy, ghi mức đạt, nhu cầu hỗ trợ và một thay đổi. Không ghi trước kết quả."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Exit prompt: solve x + 7 = 16, show the same operation on both sides, check by substitution and explain why. Expected: x + 7 - 7 = 16 - 7; x = 9; 9 + 7 = 16.",
+            "Yêu cầu cuối giờ: giải x + 7 = 16, thể hiện cùng phép toán ở hai vế, thay số kiểm tra và giải thích lí do. Dự kiến: x + 7 - 7 = 16 - 7; x = 9; 9 + 7 = 16."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            2.15,
+            3.9,
+            1.15
+          ],
+          "headers": [
+            "Criterion\nTiêu chí",
+            "What to look for\nDấu hiệu cần kiểm tra",
+            "Record\nGhi nhận"
+          ],
+          "rows": [
+            [
+              "Method\nCách giải",
+              "Subtract 7 from both sides and obtain x = 9.\nTrừ 7 cả hai vế và tìm được x = 9.",
+              "Met or retry\nĐạt hoặc làm lại"
+            ],
+            [
+              "Verification\nKiểm tra",
+              "Substitute 9 and show the equality is true.\nThay 9 và thể hiện đẳng thức đúng.",
+              "Met or retry\nĐạt hoặc làm lại"
+            ],
+            [
+              "Explanation\nGiải thích",
+              "Use 'both sides' and a correct reason; record content and English needs separately.\nDùng 'cả hai vế' và lí do đúng; ghi riêng nhu cầu nội dung và tiếng Anh.",
+              "Met or support\nĐạt hoặc hỗ trợ"
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Feedback: 'Add the substitution check.' Optional homework: x - 5 = 6 gives x = 11; check and review next lesson.",
+            "Phản hồi: 'Thêm bước thay số kiểm tra.' Bài về nhà tùy chọn: x - 5 = 6 có x = 11; kiểm tra và chữa tiết sau."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            3.1,
+            4.1
+          ],
+          "headers": [
+            "After teaching\nSau khi dạy",
+            "Actual evidence and action\nBằng chứng thực tế và hành động"
+          ],
+          "rows": [
+            [
+              "Criteria met and support needed\nTiêu chí đạt và hỗ trợ cần thiết",
+              "........................................................"
+            ],
+            [
+              "Next lesson change and reason\nĐiều chỉnh tiết sau và lí do",
+              "........................................................"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Apply the steps to Maths and Physics",
+      "vi": "Áp dụng cho Toán học và Vật lí",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Keep the seven steps. Verify the topic and level in your school's actual book; these original examples do not prescribe a Cambridge unit.",
+            "Giữ bảy bước. Kiểm tra chủ đề và mức độ trong sách thực tế của trường; ví dụ soạn mới không quy định một bài Cambridge."
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "Maths",
+          "vi": "Toán học",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Solve and verify one-step equations; explain the same operation on both sides using 'because'.\nGiải và kiểm tra phương trình một bước; giải thích phép toán ở hai vế bằng 'because'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Use the worked sequence on page 7. Exit x + 7 = 16 gives x = 9, with substitution and explanation.\nDùng tiến trình ở trang 7. Bài cuối x + 7 = 16 cho x = 9, có thay số và giải thích."
+            ],
+            [
+              "Support and resources\nHỗ trợ và học liệu",
+              "Balance drawing and partial steps; extend by creating an equation with solution 10.\nHình cân và bước giải điền một phần; mở rộng bằng lập phương trình có nghiệm 10."
+            ]
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "Physics",
+          "vi": "Vật lí",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Calculate average speed with units; compare results using 'faster than'.\nTính tốc độ trung bình có đơn vị; so sánh bằng 'faster than'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Model 60 m in 12 s: 5 m/s. Practise 80 m in 20 s: 4 m/s. Exit 90 m in 15 s: 6 m/s.\nMẫu 60 m trong 12 s: 5 m/s. Luyện 80 m trong 20 s: 4 m/s. Cuối giờ 90 m trong 15 s: 6 m/s."
+            ],
+            [
+              "Support and resources\nHỗ trợ và học liệu",
+              "Use a distance-time data table and unit prompts. Check the error time divided by distance. Prepared data avoids rushed movement.\nDùng bảng quãng đường và thời gian, gợi ý đơn vị. Kiểm tra lỗi chia thời gian cho quãng đường. Dữ liệu sẵn tránh vận động vội."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Apply the steps to Chemistry and Biology",
+      "vi": "Áp dụng cho Hóa học và Sinh học",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Keep the seven steps. Verify the topic and level in your school's actual book; these original examples do not prescribe a Cambridge unit.",
+            "Giữ bảy bước. Kiểm tra chủ đề và mức độ trong sách thực tế của trường; ví dụ soạn mới không quy định một bài Cambridge."
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "Chemistry",
+          "vi": "Hóa học",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Balance simple reactions by atom count; explain 'reactant' and 'product'.\nCân bằng phản ứng đơn giản bằng đếm nguyên tử; giải thích 'chất phản ứng' và 'sản phẩm'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Model 2H₂ + O₂ → 2H₂O. Practise N₂ + 3H₂ → 2NH₃. Exit 2Mg + O₂ → 2MgO.\nĐếm từng loại nguyên tử trước và sau trong các phương trình mẫu, luyện và cuối giờ."
+            ],
+            [
+              "Support and resources\nHỗ trợ và học liệu",
+              "Use atom cards and a count table. Change coefficients, not subscripts. Paper modelling requires no chemical experiment.\nDùng thẻ nguyên tử và bảng đếm. Đổi hệ số, không đổi chỉ số. Mô hình giấy không cần thí nghiệm hóa chất."
+            ]
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "Biology",
+          "vi": "Sinh học",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Relate selected cell structures to functions; explain 'The ___ helps the cell to ___.'\nLiên hệ cấu trúc tế bào với chức năng; giải thích bằng '___ giúp tế bào ___'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Model the membrane regulating movement into and out of a cell. Match nucleus to genetic material and chloroplast to photosynthesis. Exit: explain why a leaf cell needs chloroplasts.\nLàm mẫu màng điều tiết chất ra vào. Ghép nhân với vật chất di truyền, lục lạp với quang hợp. Cuối giờ: giải thích vai trò lục lạp ở tế bào lá."
+            ],
+            [
+              "Support and evidence\nHỗ trợ và bằng chứng",
+              "Use a clear plant-cell diagram. Expected exit: chloroplasts capture light for photosynthesis. Assess the link, not just the label.\nDùng hình tế bào thực vật rõ. Dự kiến: lục lạp thu nhận ánh sáng cho quang hợp. Đánh giá liên hệ, không chỉ nhãn."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Apply the steps to Engineering and IT",
+      "vi": "Áp dụng cho Kĩ thuật và Công nghệ thông tin",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Keep the seven steps. Verify the topic and level in your school's actual book; these original examples do not prescribe a Cambridge unit.",
+            "Giữ bảy bước. Kiểm tra chủ đề và mức độ trong sách thực tế của trường; ví dụ soạn mới không quy định một bài Cambridge."
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "Engineering",
+          "vi": "Kĩ thuật",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Choose a design against two constraints; justify 'This design meets ___ because ___.'\nChọn thiết kế theo hai ràng buộc; giải thích 'Thiết kế đáp ứng ___ vì ___'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Paper design choice: maximum cost 10 units, minimum load 500 g. A costs 8 and holds 400 g; B costs 10 and holds 600 g. Exit: select and justify.\nChọn thiết kế trên giấy: chi phí tối đa 10 đơn vị, tải tối thiểu 500 g. A giá 8 chịu 400 g; B giá 10 chịu 600 g. Cuối giờ: chọn và giải thích."
+            ],
+            [
+              "Support and evidence\nHỗ trợ và bằng chứng",
+              "Expected B meets both constraints; A fails load. Use a comparison table and labelled sketch. This is a hypothetical dataset, not certified test data.\nDự kiến B đạt cả hai; A không đạt tải. Dùng bảng so sánh và phác thảo có nhãn. Đây là dữ liệu giả định, không phải kết quả kiểm định."
+            ]
+          ]
+        },
+        {
+          "type": "subject",
+          "en": "IT",
+          "vi": "Công nghệ thông tin",
+          "rows": [
+            [
+              "Content and language\nNội dung và ngôn ngữ",
+              "Identify input, processing and output; explain a sequence using 'first', 'then' and 'finally'.\nXác định đầu vào, xử lí, đầu ra; giải thích trình tự bằng 'first', 'then', 'finally'."
+            ],
+            [
+              "Model practice and exit\nLàm mẫu luyện và cuối giờ",
+              "Model a calculator. Practise a fictional ticket-price system. Exit: identify input, process and output for adding 4 and 6.\nLàm mẫu máy tính. Luyện hệ thống giá vé giả định. Cuối giờ: xác định đầu vào, xử lí, đầu ra khi cộng 4 và 6."
+            ],
+            [
+              "Support and evidence\nHỗ trợ và bằng chứng",
+              "Expected inputs 4 and 6; process addition; output 10. Use ordered cards offline. Use fictional examples without learner personal data.\nDự kiến đầu vào 4 và 6; xử lí cộng; đầu ra 10. Dùng thẻ thứ tự khi không có mạng. Không dùng dữ liệu cá nhân học sinh."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Planning worksheet",
+      "vi": "Phiếu tự xây dựng kế hoạch",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Write brief notes here, then expand them in the shared Word format. Word cells grow with your text; the PDF is for reading or printing, not an interactive form.",
+            "Ghi ý ngắn ở đây rồi triển khai trong mẫu Word chung. Ô Word mở rộng theo nội dung; PDF để đọc hoặc in, không phải biểu mẫu tương tác."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            2.5,
+            4.7
+          ],
+          "headers": [
+            "Planning decision\nQuyết định khi soạn",
+            "My draft\nBản soạn của tôi"
+          ],
+          "rows": [
+            [
+              "1 Book class focus and 45 minutes\n1 Sách lớp trọng tâm và 45 phút",
+              "........................................................"
+            ],
+            [
+              "2 Content and language objectives\n2 Mục tiêu nội dung và ngôn ngữ",
+              "........................................................"
+            ],
+            [
+              "2 Criteria task and expected answer\n2 Tiêu chí nhiệm vụ và đáp án",
+              "........................................................"
+            ],
+            [
+              "3 Prerequisite misconception support\n3 Tiền đề hiểu lầm hỗ trợ",
+              "........................................................"
+            ],
+            [
+              "4 Terms meanings and sentence frame\n4 Từ nghĩa và khung câu",
+              "........................................................"
+            ],
+            [
+              "6 Checkpoint and response to evidence\n6 Điểm kiểm tra và cách xử lí",
+              "........................................................"
+            ],
+            [
+              "7 Exit task homework and review\n7 Cuối giờ bài về nhà và rà soát",
+              "........................................................"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            0.85,
+            2.6,
+            1.9,
+            1.85
+          ],
+          "headers": [
+            "Time\nMốc",
+            "Stage and teacher prompt\nGiai đoạn và yêu cầu",
+            "Learner product\nSản phẩm",
+            "Check and response\nKiểm tra và xử lí"
+          ],
+          "rows": [
+            [
+              "0-5",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "5-10",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "10-17",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "17-27",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "27-35",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "35-40",
+              "................................",
+              ".......................",
+              "......................."
+            ],
+            [
+              "40-45",
+              "................................",
+              ".......................",
+              "......................."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Final check before teaching",
+      "vi": "Rà soát trước khi dạy",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "Video slide 9. Tick only when the plan or prepared resource shows readiness. Fix incomplete items.",
+            "Slide 9. Chỉ đánh dấu khi kế hoạch hoặc học liệu đã sẵn sàng. Hoàn thiện mục còn thiếu."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            0.65,
+            3.65,
+            2.9
+          ],
+          "headers": [
+            "Ready\nĐạt",
+            "Check\nNội dung rà soát",
+            "Where to verify\nNơi kiểm tra"
+          ],
+          "rows": [
+            [
+              "[ ]",
+              "Book edition, pages, curriculum and class are verified.\nĐã kiểm tra sách, trang, chương trình và lớp.",
+              "Format 1 and 3\nMục 1 và 3"
+            ],
+            [
+              "[ ]",
+              "Content and language objectives have criteria and evidence.\nMục tiêu nội dung và ngôn ngữ có tiêu chí, bằng chứng.",
+              "Format 2\nMục 2"
+            ],
+            [
+              "[ ]",
+              "Prior knowledge and likely errors have a response.\nKiến thức nền và lỗi dự kiến có cách xử lí.",
+              "Format 3 and 5\nMục 3 và 5"
+            ],
+            [
+              "[ ]",
+              "Terms, meanings and frames are accurate and usable.\nTừ, nghĩa, khung câu chính xác và dùng được.",
+              "Format 3\nMục 3"
+            ],
+            [
+              "[ ]",
+              "Activities lead to independent evidence; total time is 45 minutes.\nHoạt động dẫn đến bằng chứng cá nhân; tổng 45 phút.",
+              "Format 4\nMục 4"
+            ],
+            [
+              "[ ]",
+              "Checks include answers and a next teaching action.\nKiểm tra có đáp án và hướng xử lí tiếp theo.",
+              "Format 4 and 5\nMục 4 và 5"
+            ],
+            [
+              "[ ]",
+              "Support, challenge, safe resources and a backup are ready.\nSẵn sàng hỗ trợ, mở rộng, học liệu an toàn, dự phòng.",
+              "Format 3 and 5\nMục 3 và 5"
+            ],
+            [
+              "[ ]",
+              "Exit task and follow-up are planned; reflection waits until after teaching.\nĐã soạn cuối giờ và tiếp nối; phản tư điền sau dạy.",
+              "Format 5 and 6\nMục 5 và 6"
+            ]
+          ]
+        },
+        {
+          "type": "field",
+          "en": "Any changes needed before teaching",
+          "vi": "Điều cần sửa trước khi dạy",
+          "lines": 2
+        }
+      ]
+    },
+    {
+      "heading": "Sources and alignment",
+      "vi": "Nguồn tham chiếu và đối chiếu",
+      "blocks": [
+        {
+          "type": "pair",
+          "text": [
+            "The seven-step order follows the on-screen slides in the uploaded Module 2 video How to Create an Effective Lesson Plan. Slide numbers are video labels, not Cambridge chapters.",
+            "Thứ tự bảy bước theo slide trong video Module 2 đã tải lên. Số slide là nhãn video, không phải chương Cambridge."
+          ]
+        },
+        {
+          "type": "table",
+          "widths": [
+            1.5,
+            2.85,
+            2.85
+          ],
+          "headers": [
+            "Guide steps\nCác bước",
+            "Module 2 video slides\nSlide video Module 2",
+            "Cambridge planning principle\nNguyên tắc lập kế hoạch"
+          ],
+          "rows": [
+            [
+              "1 and 2\n1 và 2",
+              "3 and 4: context and objectives\n3 và 4: bối cảnh và mục tiêu",
+              "Link the unit plan, objectives, criteria and evidence.\nLiên kết kế hoạch chủ đề, mục tiêu, tiêu chí và bằng chứng."
+            ],
+            [
+              "3 to 5\n3 đến 5",
+              "5 and 6: support and sequence\n5 và 6: hỗ trợ và tiến trình",
+              "Use prior learning; plan language, resources and timings.\nDựa vào kiến thức nền; soạn ngôn ngữ, học liệu và thời gian."
+            ],
+            [
+              "6 and 7\n6 và 7",
+              "7 and 8: checks and reflection\n7 và 8: kiểm tra và phản tư",
+              "Adapt teaching using evidence; evaluate after teaching.\nĐiều chỉnh dạy bằng bằng chứng; đánh giá sau giờ."
+            ]
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Sources: Cambridge Introduction to lesson planning and its 2023 transcript; the public summary of Kay Bentley, The TKT Course CLIL Module, Unit 6, pp. 30-36, Cambridge University Press, 2010. CLIL informs the content, communication and language support pairing.",
+            "Nguồn: hướng dẫn Cambridge và bản chép lời năm 2023; tóm tắt công khai The TKT Course CLIL Module, Kay Bentley, Bài 6, tr. 30-36, Cambridge University Press, 2010. CLIL định hướng kết hợp nội dung, giao tiếp và hỗ trợ ngôn ngữ."
+          ]
+        },
+        {
+          "type": "link",
+          "label": "Cambridge lesson planning guidance   Hướng dẫn lập kế hoạch Cambridge",
+          "url": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872"
+        },
+        {
+          "type": "link",
+          "label": "Cambridge lesson planning transcript   Bản chép lời hướng dẫn Cambridge",
+          "url": "https://learning.cambridgeinternational.org/classroom/pluginfile.php/240077/mod_label/intro/Lesson%20planning%20transcript.pdf"
+        },
+        {
+          "type": "link",
+          "label": "The TKT Course CLIL Module Unit 6   Bài 6 về lập kế hoạch CLIL",
+          "url": "https://doi.org/10.1017/9781009024792.007"
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Independently authored, not issued or endorsed by Cambridge. Examples, worksheets, word counts and 45-minute timings are training adaptations. Follow school curriculum and safety rules; verify references in lawfully obtained books.",
+            "Biên soạn độc lập, không do Cambridge phát hành hay chứng nhận. Ví dụ, phiếu, số từ và lịch 45 phút là điều chỉnh cho tập huấn. Theo chương trình, an toàn của trường; kiểm tra nguồn từ sách hợp pháp."
+          ]
+        },
+        {
+          "type": "pair",
+          "text": [
+            "Revised and sources checked 12 October 2026.",
+            "Biên soạn lại và kiểm tra nguồn ngày 12 tháng 10 năm 2026."
+          ]
+        }
+      ],
+      "reference": true
+    }
+  ]
+}

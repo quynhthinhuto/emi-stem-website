@@ -1,0 +1,127 @@
+.page-module-2 .page-hero-inner {
+  min-height: 260px;
+  padding: 3rem 0;
+}
+
+.module2-tabs-bar {
+  border-bottom: 1px solid #e1e6eb;
+  background: #fff;
+}
+
+.module2-tabs {
+  display: flex;
+  width: min(1180px, calc(100% - 32px));
+  min-height: 72px;
+  align-items: stretch;
+  gap: 0.5rem;
+  margin: 0 auto;
+  padding: 0.6rem 0;
+}
+
+.module2-tab {
+  display: inline-flex;
+  min-width: 0;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 0.65rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  padding: 0.8rem 1rem;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+  transition: background 180ms ease, color 180ms ease;
+}
+
+.module2-tab:hover {
+  background: #f2f6f7;
+}
+
+.module2-tab[aria-selected="true"] {
+  border-color: #c9e0e3;
+  background: #edf6f7;
+  color: #075a63;
+}
+
+.module2-tab:first-child {
+  flex: 0 0 auto;
+}
+
+.module2-tab:focus-visible,
+.module2-panel:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+.module2-tab-icon {
+  display: inline-flex;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.module2-tab-icon svg {
+  width: 20px;
+  height: 20px;
+}
+
+.page-module-2 .module2-panel {
+  padding-top: 2.5rem;
+  padding-bottom: 3rem;
+}
+
+.module2-panel[hidden] {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  .module2-panel .instruction-file {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .module2-panel .instruction-file-cover {
+    width: min(100%, 180px);
+  }
+
+  .module2-panel .book-actions {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .module2-panel .book-actions .button {
+    width: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .module2-tabs {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    gap: 4px;
+  }
+
+  .module2-tab {
+    padding: 0.75rem 0.45rem;
+    gap: 0.4rem;
+    font-size: 0.88rem;
+    text-align: center;
+  }
+
+  .module2-tab > span:last-child {
+    overflow-wrap: normal;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .module2-tab {
+    transition: none;
+  }
+}

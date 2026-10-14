@@ -1,0 +1,410 @@
+[
+  {
+    "subject": "maths",
+    "name": "Maths",
+    "vi": "Toán học",
+    "kind": "template",
+    "topic": [
+      "Solving and constructing linear equations",
+      "Giải và lập phương trình bậc nhất"
+    ],
+    "book": "Ric Pimentel and Terry Wall. Cambridge IGCSE Mathematics Core and Extended. Fourth edition. Hodder Education, 2018.",
+    "chapter": "Chapter 13 Equations and inequalities, printed pages 126-127",
+    "bookId": "1d2a6bac4ec39f83",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/maths-template-en-vi.docx",
+        "bytes": 40953,
+        "sha256": "a54cb0179493b2be2d6256abab8e1076495c56144f163f8ebb75460f64a03d3c"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/maths-template-en-vi.pdf",
+        "bytes": 128469,
+        "sha256": "0f6464eddf53abc02ad9f1c6dfe2fe4cc8514bdb030da9d8f8ad3a04c69636f9"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/maths-template-en-vi-cover.png",
+        "bytes": 129534,
+        "sha256": "b5fee71bc16d6a101d3009cb2b17ca7c579f08309c867cf6ae8440731ffe42a0"
+      }
+    }
+  },
+  {
+    "subject": "maths",
+    "name": "Maths",
+    "vi": "Toán học",
+    "kind": "example",
+    "topic": [
+      "Solving and constructing linear equations",
+      "Giải và lập phương trình bậc nhất"
+    ],
+    "book": "Ric Pimentel and Terry Wall. Cambridge IGCSE Mathematics Core and Extended. Fourth edition. Hodder Education, 2018.",
+    "chapter": "Chapter 13 Equations and inequalities, printed pages 126-127",
+    "bookId": "1d2a6bac4ec39f83",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/maths-example-en-vi.docx",
+        "bytes": 44513,
+        "sha256": "45f03cc81a9b06a719bd910db1108e45c537c6370e1858f3caffe97c1bf4aa60"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/maths-example-en-vi.pdf",
+        "bytes": 189302,
+        "sha256": "e678dcbf33471597408b8178c8b4fa0d5fa81d71450ac02fe83455e7a57ca096"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/maths-example-en-vi-cover.png",
+        "bytes": 198717,
+        "sha256": "e78b66cae4ec9d69aa6b5c6fb8eebe089dbdf53fd738781c8d19ea70b7c72b1f"
+      }
+    }
+  },
+  {
+    "subject": "physics",
+    "name": "Physics",
+    "vi": "Vật lý",
+    "kind": "template",
+    "topic": [
+      "Resultant forces in one dimension",
+      "Hợp lực trong chuyển động một chiều"
+    ],
+    "book": "Tom Duncan and Heather Kennett. Cambridge IGCSE Physics. Third edition. Hodder Education, 2014.",
+    "chapter": "Chapter 7 Adding forces, printed pages 27-29",
+    "bookId": "abb6ee2e1f97f9e9",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/physics-template-en-vi.docx",
+        "bytes": 40943,
+        "sha256": "e914b016ae633c3ae36ac664f651d86ed41f132cd3beb5bf5d379982f5cba4b8"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/physics-template-en-vi.pdf",
+        "bytes": 128492,
+        "sha256": "c4c2bb0229577fb147bc4346176726a9361206b00aae3e2490c03838f57d7f9e"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/physics-template-en-vi-cover.png",
+        "bytes": 126995,
+        "sha256": "3ef0580d7a5c957e4753d386c78599e2d1f2d4f3b0a83dbf7eac1dc24c83a2e1"
+      }
+    }
+  },
+  {
+    "subject": "physics",
+    "name": "Physics",
+    "vi": "Vật lý",
+    "kind": "example",
+    "topic": [
+      "Resultant forces in one dimension",
+      "Hợp lực trong chuyển động một chiều"
+    ],
+    "book": "Tom Duncan and Heather Kennett. Cambridge IGCSE Physics. Third edition. Hodder Education, 2014.",
+    "chapter": "Chapter 7 Adding forces, printed pages 27-29",
+    "bookId": "abb6ee2e1f97f9e9",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/physics-example-en-vi.docx",
+        "bytes": 44478,
+        "sha256": "1f1346bc7675b77d85c14615bdbc20646c764269e82432d58f751a2ad45eb126"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/physics-example-en-vi.pdf",
+        "bytes": 190236,
+        "sha256": "c93078ffe7b3fd04448631118c6bb69a3a00897fbbf0302632629043f4e8ab1b"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/physics-example-en-vi-cover.png",
+        "bytes": 186679,
+        "sha256": "a43792057f1cfda8654725bcea037b8f1518e0654cf90eaa039bbbcef6b9fb5a"
+      }
+    }
+  },
+  {
+    "subject": "chemistry",
+    "name": "Chemistry",
+    "vi": "Hóa học",
+    "kind": "template",
+    "topic": [
+      "Explaining states of matter with particles",
+      "Giải thích các trạng thái vật chất bằng mô hình hạt"
+    ],
+    "book": "Bryan Earl and Doug Wilford. Cambridge IGCSE Chemistry. Third edition. Hodder Education, 2014.",
+    "chapter": "Chapter 1 The particulate nature of matter, printed pages 2-4",
+    "bookId": "98b8438aac5cf03e",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/chemistry-template-en-vi.docx",
+        "bytes": 40968,
+        "sha256": "d5126f5e219c1439ce1e36e5744acee73cd41cc9c3a6b23b2b1ff99955e834d8"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/chemistry-template-en-vi.pdf",
+        "bytes": 129404,
+        "sha256": "250eff6dbaa6a922b1f29af359ad3fdb8182bf473f2fdb4f5b58e55ff149f277"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/chemistry-template-en-vi-cover.png",
+        "bytes": 129924,
+        "sha256": "61102c6848b4ad65f538087f2c2a8ba6c4a2cd2a678b1d397c06b4b6be5f365f"
+      }
+    }
+  },
+  {
+    "subject": "chemistry",
+    "name": "Chemistry",
+    "vi": "Hóa học",
+    "kind": "example",
+    "topic": [
+      "Explaining states of matter with particles",
+      "Giải thích các trạng thái vật chất bằng mô hình hạt"
+    ],
+    "book": "Bryan Earl and Doug Wilford. Cambridge IGCSE Chemistry. Third edition. Hodder Education, 2014.",
+    "chapter": "Chapter 1 The particulate nature of matter, printed pages 2-4",
+    "bookId": "98b8438aac5cf03e",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/chemistry-example-en-vi.docx",
+        "bytes": 44919,
+        "sha256": "7b8bf592b2c150c2a07aaf3975990a1701cc7bdfe47b71922a0ed0d1fc073aee"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/chemistry-example-en-vi.pdf",
+        "bytes": 190993,
+        "sha256": "3bbacd7a34806ddee0c968a8cfc76fd8287530b832f25e97fd3cd960dbed968d"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/chemistry-example-en-vi-cover.png",
+        "bytes": 201454,
+        "sha256": "09da5728b6358985817877b60aaee7e8b70b4c0491594ff1fb1fd3b17ecf78f6"
+      }
+    }
+  },
+  {
+    "subject": "biology",
+    "name": "Biology",
+    "vi": "Sinh học",
+    "kind": "template",
+    "topic": [
+      "Comparing plant and animal cells",
+      "So sánh tế bào thực vật và động vật"
+    ],
+    "book": "Mary Jones and Geoff Jones. Cambridge IGCSE Biology Coursebook. Third edition. Cambridge University Press, 2014.",
+    "chapter": "Chapter 2 Cells, section 2.1 Cell structure, printed pages 19-22",
+    "bookId": "6f52b175fd43b283",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/biology-template-en-vi.docx",
+        "bytes": 40941,
+        "sha256": "8a4bee9438b6c84b713dfd8497347129eb09a9e95a63bd5d78214706f93cae7a"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/biology-template-en-vi.pdf",
+        "bytes": 128422,
+        "sha256": "bd1f4630333ce28fe9f79fb6fa9d952280b1e422fdfe6aa0c87e1d48506cbee5"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/biology-template-en-vi-cover.png",
+        "bytes": 131742,
+        "sha256": "7061d6295f2bf7839322cd335cc26a0aa15cced3ae9006913f315c3974f13ba1"
+      }
+    }
+  },
+  {
+    "subject": "biology",
+    "name": "Biology",
+    "vi": "Sinh học",
+    "kind": "example",
+    "topic": [
+      "Comparing plant and animal cells",
+      "So sánh tế bào thực vật và động vật"
+    ],
+    "book": "Mary Jones and Geoff Jones. Cambridge IGCSE Biology Coursebook. Third edition. Cambridge University Press, 2014.",
+    "chapter": "Chapter 2 Cells, section 2.1 Cell structure, printed pages 19-22",
+    "bookId": "6f52b175fd43b283",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/biology-example-en-vi.docx",
+        "bytes": 44892,
+        "sha256": "9e27a9c82593da9a7755552ec23b28695e769315514437b148294bdf8e8356c8"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/biology-example-en-vi.pdf",
+        "bytes": 191298,
+        "sha256": "590159e56ad22a61b27365bcd8274c235fafaba8b64d80acdada6b8237ef11a5"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/biology-example-en-vi-cover.png",
+        "bytes": 202091,
+        "sha256": "ea0528432073b2723cd765567fa0c0b130c13c3c9f9cb4cce0f7ab5e2073bcdf"
+      }
+    }
+  },
+  {
+    "subject": "engineering",
+    "name": "Engineering",
+    "vi": "Kỹ thuật",
+    "kind": "template",
+    "topic": [
+      "Turning user needs into a design specification",
+      "Chuyển nhu cầu người dùng thành yêu cầu thiết kế"
+    ],
+    "book": "Cambridge International. Cambridge IGCSE Design & Technology 0445 syllabus for 2024, 2025 and 2026.",
+    "chapter": "Common content Product Design, printed pages 11-12: design brief, specification, research and evaluation",
+    "bookId": "4a08e8cb671a7f00",
+    "syllabusBased": true,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/engineering-template-en-vi.docx",
+        "bytes": 41052,
+        "sha256": "4b03de4c3aadb921157f7599efd7925ddf2f77162979c0f89d452c4f90e3b72a"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/engineering-template-en-vi.pdf",
+        "bytes": 129794,
+        "sha256": "ba3329645856cb385882551d2cda9585cab0794c6f200d8fc11b1bc810886bd7"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/engineering-template-en-vi-cover.png",
+        "bytes": 148742,
+        "sha256": "5d12d0b8265662930777c10d9523622a6db36aa8068743c956c823d36af73fda"
+      }
+    }
+  },
+  {
+    "subject": "engineering",
+    "name": "Engineering",
+    "vi": "Kỹ thuật",
+    "kind": "example",
+    "topic": [
+      "Turning user needs into a design specification",
+      "Chuyển nhu cầu người dùng thành yêu cầu thiết kế"
+    ],
+    "book": "Cambridge International. Cambridge IGCSE Design & Technology 0445 syllabus for 2024, 2025 and 2026.",
+    "chapter": "Common content Product Design, printed pages 11-12: design brief, specification, research and evaluation",
+    "bookId": "4a08e8cb671a7f00",
+    "syllabusBased": true,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/engineering-example-en-vi.docx",
+        "bytes": 45483,
+        "sha256": "b10fdcf0c68618a0b3a54a04d03e74ddb7813f7d29e474fa798bc0fc50a7f351"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/engineering-example-en-vi.pdf",
+        "bytes": 195105,
+        "sha256": "7a2c87e68fdc4adf49db3018b2130488159b3ad164948dde03c2a578d3b3754f"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/engineering-example-en-vi-cover.png",
+        "bytes": 213438,
+        "sha256": "b20a93ef72fa2633d4155ca8d672d88ca50000181c04b13b46911a19a9603aa0"
+      }
+    }
+  },
+  {
+    "subject": "it",
+    "name": "IT",
+    "vi": "Công nghệ thông tin",
+    "kind": "template",
+    "topic": [
+      "Building and checking a spreadsheet cost model",
+      "Xây dựng và kiểm tra mô hình chi phí trên bảng tính"
+    ],
+    "book": "Graham Brown and David Watson. Cambridge IGCSE Information and Communication Technology. Third edition. Hodder Education, 2021.",
+    "chapter": "Chapter 20 Spreadsheets, section 20.1 Create a data model, printed pages 439-453",
+    "bookId": "a1feeba5018d0b50",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 3,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/it-template-en-vi.docx",
+        "bytes": 40977,
+        "sha256": "d4a473f571f1221f94dc8c5a0388f4a0aeea3919fcf4b034853764c6c6803d78"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/it-template-en-vi.pdf",
+        "bytes": 127699,
+        "sha256": "3ad9d4f2692c3d6eab4e2456bcbb571eda0eb61618c28363f6ae7b5411430a1b"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/it-template-en-vi-cover.png",
+        "bytes": 135206,
+        "sha256": "c9549f35e3d803695843e7a8183910ea0b18fe33021e1847f81006070de6f892"
+      }
+    }
+  },
+  {
+    "subject": "it",
+    "name": "IT",
+    "vi": "Công nghệ thông tin",
+    "kind": "example",
+    "topic": [
+      "Building and checking a spreadsheet cost model",
+      "Xây dựng và kiểm tra mô hình chi phí trên bảng tính"
+    ],
+    "book": "Graham Brown and David Watson. Cambridge IGCSE Information and Communication Technology. Third edition. Hodder Education, 2021.",
+    "chapter": "Chapter 20 Spreadsheets, section 20.1 Create a data model, printed pages 439-453",
+    "bookId": "a1feeba5018d0b50",
+    "syllabusBased": false,
+    "lessonMinutes": 45,
+    "pages": 7,
+    "guidance": "https://learning.cambridgeinternational.org/classroom/course/view.php?id=4872",
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-4/it-example-en-vi.docx",
+        "bytes": 45411,
+        "sha256": "85abab46ffb42ebe6881dc600c5a45b8ff6986c2103b23402519e65a7de85c79"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-4/it-example-en-vi.pdf",
+        "bytes": 214944,
+        "sha256": "c5d2a398584ae410b2d0f07338db57ad9e3785e09c9f2291570c18cfa82481b3"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-4/it-example-en-vi-cover.png",
+        "bytes": 205561,
+        "sha256": "f6e67fd6605243023abf8821f94303841e763b791e262318de751a60fe5d6c61"
+      }
+    }
+  }
+]

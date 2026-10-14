@@ -1,0 +1,3 @@
+# Local Cloudflare Worker secret example. No production credentials are included.
+# Set your own secret only when enabling the protected book import API.
+BOOK_IMPORT_TOKEN=""

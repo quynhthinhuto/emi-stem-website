@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "exportDate": "2026-10-14",
+  "timezone": "Australia/Adelaide",
+  "createdAt": "2026-10-14T06:47:16.952Z",
+  "website": "https://emi-stem-vietnam-training-20260913.quynhthinhuto.chatgpt.site",
+  "publishedVersion": 80,
+  "sourceCommit": "61e1c701720e9b3dd78c0dec843d3643c4c2f3e2",
+  "originalSourceFiles": 6241,
+  "filesBeforeMetadata": 6245,
+  "bytesBeforeMetadata": 134002028,
+  "addedFiles": [
+    "README.md",
+    "SETUP.md",
+    ".env.example",
+    ".dev.vars.example"
+  ],
+  "modifiedExportFiles": [
+    ".gitignore"
+  ],
+  "excluded": [
+    "Git history, metadata and remotes",
+    "Runtime secrets and credentials",
+    "Installed dependencies",
+    "Build caches",
+    "Cloud R2 book PDFs",
+    "Browser-local progress and session recordings"
+  ],
+  "cloudBooks": {
+    "catalog": "lib/subject-books.json",
+    "count": 42,
+    "storedSeparately": true,
+    "backupArchive": "EMI-STEM-website-data-2026-10-14.zip"
+  },
+  "verification": {
+    "sourceByteIdenticalExceptDocumentedExportChanges": true,
+    "testSuite": {
+      "tests": 46,
+      "passed": 46,
+      "failed": 0,
+      "dependencies": "Temporarily reused the matching existing checkout node_modules; removed from the export after testing."
+    },
+    "dependencyInstallationPerformed": false,
+    "buildPerformed": false,
+    "deployedToNewHost": false,
+    "noPrivateKeyOrProviderApiKeyPatternDetected": true,
+    "largestFile": {
+      "path": "public/assets/videos/module-2-instruction-20261012.mp4",
+      "bytes": 10102424,
+      "sha256": "8c5fc6064b0d9b6de2cee5f56f269410431ac99086d90c6165e15f351c6462f5"
+    },
+    "allFilesBelow100MiB": true
+  },
+  "integrity": "EXPORT-FILES.json lists SHA-256 and size for every file except the two export metadata JSON files themselves. The ZIP checksum is provided separately.",
+  "publication": {
+    "originalWebsiteChanged": false,
+    "uploadedToGitHub": false
+  }
+}

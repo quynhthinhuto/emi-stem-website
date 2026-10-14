@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "format",
+    "name": "Shared Lesson Plan Format",
+    "vi": "Mẫu kế hoạch bài dạy dùng chung",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "lessonMinutes": 45,
+    "pages": 5,
+    "coverDimensions": [
+      1020,
+      1320
+    ],
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-2/shared-lesson-plan-format-en-vi.docx",
+        "bytes": 42500,
+        "sha256": "2a8e4c16a026823f6197a972132a62e098632dae50a5c74325d826c773bb179a"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-2/shared-lesson-plan-format-en-vi.pdf",
+        "bytes": 155612,
+        "sha256": "7a979a4438d5668db5f92f3c558253bce2e2a9d58b53296c1c26e0b2e9ab1094"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-2/shared-lesson-plan-format-en-vi-cover.png",
+        "bytes": 189322,
+        "sha256": "918eadc4d2d1fdff0a8665c1f9e887c31f64c0cf1b86d8a9de7fe5c0f875b2a8"
+      }
+    }
+  },
+  {
+    "kind": "guide",
+    "name": "Step by Step Lesson Planning Guide",
+    "vi": "Hướng dẫn từng bước xây dựng kế hoạch bài dạy",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "lessonMinutes": 45,
+    "pages": 15,
+    "coverDimensions": [
+      1020,
+      1320
+    ],
+    "files": {
+      "docx": {
+        "path": "/assets/lesson-plans/module-2/step-by-step-lesson-planning-guide-en-vi.docx",
+        "bytes": 55264,
+        "sha256": "a30ff6f9ac6b1f2df1b38c80dab850b32ec5ae677cc97266e7f4d1290976ca9e"
+      },
+      "pdf": {
+        "path": "/assets/lesson-plans/module-2/step-by-step-lesson-planning-guide-en-vi.pdf",
+        "bytes": 335810,
+        "sha256": "0b92decbe56ca33c466ce9bfc5b03367eeda1f5206f34b28de57952401e6d3ca"
+      },
+      "cover": {
+        "path": "/assets/lesson-plans/module-2/step-by-step-lesson-planning-guide-en-vi-cover.png",
+        "bytes": 244614,
+        "sha256": "1410a0a17a7ddde7dfb68d343bf9f888b20ee8a540cf98ec7818550e292c0801"
+      }
+    }
+  }
+]

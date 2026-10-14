@@ -1,0 +1,42 @@
+# Dependencies and package-manager state
+/node_modules/
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Build, test, and framework output
+/coverage
+*.tsbuildinfo
+/.next/
+/.vinext/
+/out/
+/dist/
+/.wrangler/
+/.sites-runtime/
+
+# Local environment and secrets
+.env*
+!.env.example
+.dev.vars*
+!.dev.vars.example
+
+# Logs and local metadata
+.DS_Store
+*.pem
+*.key
+*.p12
+*.pfx
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+next-env.d.ts
+.vercel
+/.agents/
+/.codex/
+/outputs/
+/work/

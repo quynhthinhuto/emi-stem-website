@@ -1,0 +1,11 @@
+.shared-planning-resources .instruction-file + .instruction-file {
+  margin-top: 2rem;
+}
+
+.shared-planning-resources .resource-references {
+  margin-top: 2rem;
+}
+
+.shared-planning-resources .resource-description {
+  overflow-wrap: anywhere;
+}
